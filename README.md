@@ -1,6 +1,6 @@
 # Hate Speech Detection with LSTM
 
-This repository contains code for a Hate Speech Detection model using Long Short-Term Memory (LSTM) neural networks. The model is built using TensorFlow and Keras libraries and is trained on a dataset with labeled tweets to classify whether a tweet contains hate speech or not.
+This repository contains code for a Hate Speech Detection model using Long Short-Term Memory (LSTM) neural networks. The model is built using TensorFlow and Keras libraries and is trained on a dataset with labeled tweets to classify whether a tweet contains hate speech or not
 
 ## Prerequisites
 
